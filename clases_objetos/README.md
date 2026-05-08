@@ -23,5 +23,6 @@ El programa crea dos objetos `Libro` distintos (`libro1` y `libro2`) y ejecuta u
  
 ## Captura de ejecucion
  
-![Captura 1](..\img\objetosclases1.png)
-![Captura 2](..\img\objetosclases2.png)
+<img width="635" height="937" alt="objetosclases1" src="https://github.com/user-attachments/assets/ce864e06-c62b-4449-bcfe-a968c77c9496" />
+<img width="376" height="133" alt="objetosclases2" src="https://github.com/user-attachments/assets/f42e31fb-5fb2-4677-b614-b4d948aefbf7" />
+
