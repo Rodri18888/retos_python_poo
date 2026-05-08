@@ -1,3 +1,4 @@
+
 # Clase `CuentaBancaria` - Programacion Orientada a Objetos en Python
  
 ## Descripcion
@@ -20,4 +21,4 @@ Se crea una cuenta a nombre de `"Rodrigo"` con un saldo inicial de `200`. Luego 
  
 ## Captura de ejecucion
 
-![Captura](..\img\encapsulacion.png)
+<img width="307" height="153" alt="encapsulacion" src="https://github.com/user-attachments/assets/13f6e1e8-4eca-4c69-ba4d-e6a832719b48" />
