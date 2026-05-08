@@ -20,4 +20,4 @@ Se crea una cuenta a nombre de `"Rodrigo"` con un saldo inicial de `200`. Luego 
  
 ## Captura de ejecucion
 
-![Captura](img\encapsulacion.png)
+![Captura](..\img\encapsulacion.png)
